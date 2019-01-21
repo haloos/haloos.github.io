@@ -1,2 +1,2 @@
 # haloos.github.io
-<h1><em> First website officaly online<em></h1>
+<h1><em> First website officially online<em></h1>
